@@ -27,13 +27,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to the Intelligent Logistics and Supply Chain Analytics (iLSCA) Lab！
+`Welcome to the Intelligent Logistics and Supply Chain Analytics (iLSCA) Lab!`
 
 Led by Prof. Benedict Jun MA, the iLSCA Lab is based at the Thrust of Intelligent Transportation (INTR), Systems Hub, The Hong Kong University of Science and Technology (Guangzhou).
 
 Currently, our dynamic team consists of 12 motivated researchers, including 2 full-time Ph.D. students and 10 Research Assistants. Together, we are dedicated to solving the critical challenges facing modern logistics and supply chains by deeply integrating Intelligent Transportation, Smart Warehousing, Autonomous Drone & Robotics Systems, and Large Language Models (LLMs).
 
-Above all, the iLSCA Lab is built on a culture of harmony, mutual support, efficiency, and a strong sense of scientific curiosity and teamwork. We believe that the best research emerges from a collaborative and joyful environment. We are always excited to connect with like-minded researchers who share our passion for reshaping the future of logistics and supply chain analytics.
+Above all, we are always excited to connect with like-minded researchers who share our passion for reshaping the future of logistics and supply chain analytics.
 
 ---
 
