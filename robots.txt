@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://bgao554.github.io/ilsa//sitemap.xml
+Sitemap: https://bgao554.github.io/sitemap.xml
