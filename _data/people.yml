@@ -1,1 +1,19 @@
+directors:
+- name: "Prof. Benedict Jun MA"
+  photo: "benedict.jpg"
+  info: "Assistant Professor, Thrust of Intelligent Transportation. Ph.D. in Industrial Engineering, University of Hong Kong, 2024."
+  email: "junm@hkust-gz.edu.cn"
 
+phds:
+- name: "Borui GAO"
+  photo: "borui.jpg"
+  info: "Ph.D. Student, Thrust of Intelligent Transportation, starting from Jan 2026. M.Sc. in Transport and City Planning, University College London, 2022."
+  email: "bgao554@connect.hkust-gz.edu.cn"
+# 继续添加博士生
+
+ras:
+- name: "Yin HUANG"
+  photo: "yin.jpg"
+  info: "Research Assistant"
+  email: "XXXX@hkust-gz.edu.cn"
+# 继续添加研究助理
