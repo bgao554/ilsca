@@ -45,7 +45,7 @@ permalink: /people/
   <div>
     <b>{{ person.name }}</b><br>
     {{ person.role }}<br>
-    {{ person.bio }}
+    {{ person.bio }}<br>
     <a href="mailto:{{ person.email }}">{{ person.email }}</a>
   </div>
 </div>
