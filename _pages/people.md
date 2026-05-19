@@ -1,9 +1,9 @@
 ---
-layout: page
-title: People
-permalink: /people/
-nav: true
-nav_order: 8
+# layout: page
+# title: people
+# permalink: /people/
+# nav: true
+# nav_order: 8
 ---
 
 ## Faculty
