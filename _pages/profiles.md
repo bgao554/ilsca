@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: Members of the lab
+description: Members of the iLSCA Lab
 nav: true
 nav_order: 7
 
