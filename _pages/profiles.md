@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
+title: People
 description: Members of the iLSCA Lab
 nav: true
 nav_order: 7
@@ -12,18 +12,18 @@ profiles:
   - align: right
     image: benedict.jpg
     content: about_benedict.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Room 603, L6</p>
-      <p>Building E2</p>
+      <p>Room 603,</p>
+      <p>Building E2,</p>
       <p>HKUST(GZ)</p>
   - align: left
     image: gaoborui.jpg
     content: about_gaoborui.md
-    image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>Seat 006, L5</p>
-      <p>Building W2</p>
-      <p>HKUST(GZ)</p>
+    image_circular: false # crops the image to make it circular
+  - align: right
+    image: wangman.jpg
+    content: about_wangman.md
+    image_circular: false # crops the image to make it circular
 
 ---
